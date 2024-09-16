@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # !Important! => Now Deploy on VPS
 
-### Check APP on [users_manager](http://57.129.42.218:80) for more details.
+### Check APP on [users_manager](http://57.129.42.218:3030) for more details.
